@@ -1,2 +1,2 @@
 # DIBR_IQA
-We will release the source code soon!
+Quality Assessment for DIBR-synthesized Views based on Wavelet Transform and Gradient Magnitude Similarity
